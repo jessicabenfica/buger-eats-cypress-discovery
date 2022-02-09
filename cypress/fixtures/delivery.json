@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Jessica Benfica",
+        "cpf": "10075225697",
+        "email": "jessica.rodriguesb@gmail.com",
+        "whatsapp": "31985294491",
+        "address": {
+            "postalcode": "30690320",
+            "street": "Rua das Verbenas",
+            "number": "342",
+            "details": "Casa",
+            "district": "Lindéia (Barreiro)",
+            "city_state": "Belo Horizonte/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "João Lucas",
+        "cpf": "x00000141AA",
+        "email": "joao@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "João Lucas",
+        "cpf": "10075225697",
+        "email": "joao.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
